@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "CLAUDE.md",
+    "rel_path": "CLAUDE.md",
+    "word_count": 966,
+    "first_heading": "CLAUDE.md - Technical Notes for LLM Council",
+    "preview": "# CLAUDE.md - Technical Notes for LLM Council\n\nThis file contains technical details, architectural decisions, and important implementation notes for future development sessions.\n\n## Project Overview\n\n"
+  },
+  {
+    "filename": "README.md",
+    "rel_path": "README.md",
+    "word_count": 489,
+    "first_heading": "LLM Council",
+    "preview": "# LLM Council\n\n![llmcouncil](header.jpg)\n\nThe idea of this repo is that instead of asking a question to your favorite LLM provider (e.g. OpenAI GPT 5.1, Google Gemini 3.0 Pro, Anthropic Claude Sonnet "
+  },
+  {
+    "filename": "README.md",
+    "rel_path": "frontend/README.md",
+    "word_count": 113,
+    "first_heading": "React + Vite",
+    "preview": "# React + Vite\n\nThis template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.\n\nCurrently, two official plugins are available:\n\n- [@vitejs/plugin-react](https://gi"
+  },
+  {
+    "filename": "00_repository_inventory_status_update.md",
+    "rel_path": "prompts/00_repository_inventory_status_update.md",
+    "word_count": 901,
+    "first_heading": "Prompt 00 \u2014 Brandy Repository Inventory and Status Update",
+    "preview": "# Prompt 00 \u2014 Brandy Repository Inventory and Status Update\n\n## Goal\n\nInventory the repositories under Brandy's active git workspace and create a clear, useful status report for each repository.\n\nThe "
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "CLAUDE.md",
+    "rel_path": "CLAUDE.md",
+    "type": "duplicate_or_clutter",
+    "usefulness": "archive_candidate"
+  },
+  {
+    "filename": "README.md",
+    "rel_path": "README.md",
+    "type": "duplicate_or_clutter",
+    "usefulness": "archive_candidate"
+  },
+  {
+    "filename": "README.md",
+    "rel_path": "frontend/README.md",
+    "type": "duplicate_or_clutter",
+    "usefulness": "archive_candidate"
+  },
+  {
+    "filename": "00_repository_inventory_status_update.md",
+    "rel_path": "prompts/00_repository_inventory_status_update.md",
+    "type": "duplicate_or_clutter",
+    "usefulness": "archive_candidate"
+  }
+]
